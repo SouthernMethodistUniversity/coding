@@ -1,4 +1,4 @@
-[<<< Previous](README.md) | [Next >>>](r.md) 
+[Next >>>](r.md) 
 
 # Which language should you learn?
 
@@ -12,7 +12,7 @@ R vs Python
 * [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R vs. Python compares the two in action](http://www.theswarmlab.com/category/rvspython/) 
 
-[<<< Previous](README.md) | [Next >>>](r.md) 
+[Next >>>](r.md) 
 
 -----
 
