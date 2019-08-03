@@ -128,17 +128,4 @@ cor.test(data = frequency[frequency$author == "H.G. Wells",],
 [<<< Previous](r.md) | [Next >>>](continue.md) 
 -----
 
-
-[Which language should you learn?](which.md)
-
-[R](r.md)
-
-[Tidy Text](tidytext.md)
-
-[Follow up](continue.md)
-
-Written by Rafia Mirza & Aren Cambre
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+[Return to the Introduction](https://github.com/DHRISMU/r)
