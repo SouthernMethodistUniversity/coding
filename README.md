@@ -1,15 +1,23 @@
 # R 
 
 
-etc etc 
+“R is a general-purpose programming language that is suitable for a wide variety of core tasks in the digital humanities. Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts. This session in R fundamentals also introduces essential computing concepts such as [data types, iteration, input/output, control structures, and importing libraries]. This session will serve as a basis for later sessions in databases, natural language processing, and working with APIs.
+
+We will do this by [LEARNING OBJECTIVES: LIST ALL THE THINGS WE WILL Learn to DO]. 	
+
+At the end we will have [CHALLENGE ACTIVITY] where we use what we learned to do something, ex. Scavenger hunt.  
+
 ----
 
 What you will find in this Repository
 
 -----
 
+[Which language should you learn?](sections/which.md)
 
 [R](sections/r.md)
+
+[Tidy Text](sections/tidytext.md)
 
 [Follow up](sections/continue.md)
 
