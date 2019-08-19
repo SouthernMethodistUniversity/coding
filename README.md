@@ -4,6 +4,8 @@ R is a general-purpose programming language that is great for the digital humani
 
 We will do this by introducing some essential parts of R and then working through [Chapter 1](https://www.tidytextmining.com/tidytext.html) of [Text Mining With R](https://www.tidytextmining.com/).
 
+By the end, we will have imported multiple classic books into R and compare word usage between their authors.
+
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
 * [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
