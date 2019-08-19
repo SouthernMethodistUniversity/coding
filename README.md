@@ -1,25 +1,8 @@
 # R 
 
-R is a general-purpose programming language that is suitable for a wide variety of core tasks in the digital humanities. Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts. This session in R fundamentals also introduces essential computing concepts such as [data types, iteration, input/output, control structures, and importing libraries]. This session will serve as a basis for later sessions in databases, natural language processing, and working with APIs.
+R is a general-purpose programming language that is great for the digital humanities. The R fundamentals session is an introduction to the essentials of R and the Tidyverse.
 
-We will do this by [LEARNING OBJECTIVES: LIST ALL THE THINGS WE WILL Learn to DO]. 	
-
-At the end we will have [CHALLENGE ACTIVITY] where we use what we learned to do something, ex. Scavenger hunt.  
-
-----
-
-What you will find in this Repository
-
------
-
-[Which language should you learn?](sections/which.md)
-
-[R](sections/r.md)
-
-[Tidy Text](sections/tidytext.md)
-
-[Follow up](sections/continue.md)
-
+We will do this by introducing some essential parts of R and then working through [Chapter 1](https://www.tidytextmining.com/tidytext.html) of [Text Mining With R](https://www.tidytextmining.com/).
 
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
@@ -27,8 +10,8 @@ Related Repositories:
 
 -----
 
-Session Leaders: Aren Cambre
-Partially based on previous work by Aren Cambre and Programming Historican  
+Session Leader: Aren Cambre
+Partially based on previous work by Aren Cambre
 
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
