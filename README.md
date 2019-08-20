@@ -6,6 +6,8 @@ We will do this by introducing some essential parts of R and then working throug
 
 By the end, we will have imported multiple classic books into R and compare word usage between their authors.
 
+Download and use this code file: [chapter 1.R](chapter 1.R).
+
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
 * [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
@@ -13,7 +15,6 @@ Related Repositories:
 -----
 
 Session Leader: Aren Cambre
-Partially based on previous work by Aren Cambre
 
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
