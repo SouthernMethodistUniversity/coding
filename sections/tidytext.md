@@ -1,4 +1,4 @@
-[<<< Previous](r.md) | [Next >>>](continue.md) 
+[<<< Previous](https://github.com/DHRISMU/r) | [Next >>>](which.md) 
 
 # This is an adaptation of the examples in Text Mining With R Chapter 1
 [Text Mining with R](https://www.tidytextmining.com/tidytext.html)
@@ -125,7 +125,7 @@ cor.test(data = frequency[frequency$author == "H.G. Wells",],
          ~ proportion + `Jane Austen`)
 
 
-[<<< Previous](r.md) | [Next >>>](continue.md) 
+[<<< Previous](https://github.com/DHRISMU/r.md) | [Next >>>](which.md) 
 -----
 
 [Return to the Introduction](https://github.com/DHRISMU/r)

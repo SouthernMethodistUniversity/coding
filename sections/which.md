@@ -1,4 +1,4 @@
-[Next >>>](r.md) 
+[Next >>>](continue.md) 
 
 # Which language should you learn?
 
@@ -12,19 +12,11 @@ R vs Python
 * [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [R vs. Python compares the two in action](http://www.theswarmlab.com/category/rvspython/) 
 
-[Next >>>](r.md) 
+[Eric's text analysis lesson in python](https://github.com/SouthernMethodistUniversity/think-play-hack/blob/master/tutorials/python/textmining_python.ipynb) 
+
+
+[Next >>>](continue.md) 
 
 -----
 
-
-[Which language should you learn?](which.md)
-
-[R](r.md)
-
-[Follow up](continue.md)
-
-Written by Rafia Mirza
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
+[Return to the Introduction](https://github.com/DHRISMU/r)

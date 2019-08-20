@@ -1,6 +1,10 @@
 # R 
 
-R is a general-purpose programming language that is great for the digital humanities. The R fundamentals session is an introduction to the essentials of R and the Tidyverse.
+R is a general-purpose programming language that is great for the digital humanities. 
+
+Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts.
+
+The R fundamentals session is an introduction to the essentials of R and the Tidyverse.
 
 We will do this by introducing some essential parts of R and then working through [Chapter 1](https://www.tidytextmining.com/tidytext.html) of [Text Mining With R](https://www.tidytextmining.com/).
 
@@ -11,6 +15,18 @@ Download and use this code file: [chapter 1.R](https://github.com/DHRISMU/r/blob
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
 * [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
+
+
+----
+
+What you will find in this Repository
+
+-----
+
+[Which DH language should you learn?](sections/which.md)
+
+[Follow up](sections/continue.md)
+
 
 -----
 

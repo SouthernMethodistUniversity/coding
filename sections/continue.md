@@ -1,4 +1,4 @@
-[<<< Previous](tidytext.md) 
+[<<< Previous](which.md) 
 
 # Following up
 
@@ -14,7 +14,7 @@
 
 [Do the 'R' Thing: Data analysis with R](https://github.com/GCDigitalFellows/do-the-r-thing)
 
-[<<< Previous](tidytext.md) 
+[<<< Previous](which.md) 
 -----
 
 [Return to the Introduction](https://github.com/DHRISMU/r)
