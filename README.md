@@ -10,9 +10,9 @@ We will do this by introducing some essential parts of R and then working throug
 
 By the end, we will have imported multiple classic books into R and compare word usage between their authors.
 
-Download and use this code file: [chapter 1.R](https://github.com/DHRISMU/r/blob/master/chapter%201.R).
+Download and use this code file: [chapter 1.R](chapter%201.R).
 
-[Slides from the presentation.](Class 1 (DHRI) (public).pptx)
+[Slides from the presentation.](Class%201%20(DHRI)%20(public).pptx)
 
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
