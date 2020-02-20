@@ -1,21 +1,14 @@
-#pyhon 
-Python is....
+# Why learn coding?
 
-# R 
+[Digital Pedagogy in the Humanities: Concepts, Models, and Experiments:Code by Lauren Klein](https://digitalpedagogy.mla.hcommons.org/keywords/code/) 
+“It follows, then, that any instructor—-in the humanities or otherwise-—must first ask herself what she hopes her students will accomplish by learning to code. Is it an understanding of how to think algorithmically, so as to better comprehend how certain tasks can be abstracted into a series of steps? Is it a familiarity with the basic components of programming languages, so as to be able to understand how code is structured and produced? Is it the knowledge of a specialized programming language, one with specific applications in a particular field? Or is it the more experiential knowledge of what it feels like to move from defining functions and assigning variables to running executable code?: [italics added] 
 
-R is a general-purpose programming language that is great for the digital humanities. 
+* You don't need to be become fluent if not the focus of your interest, but helpful to have reading fluency, like any other language that is an important part of your research. 
 
-Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts.
+Also like any other language, use will help you retain and gain knowledge. 
 
-The R fundamentals session is an introduction to the essentials of R and the Tidyverse.
+***Reoccurring question to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
-We will do this by introducing some essential parts of R and then working through [Chapter 1](https://www.tidytextmining.com/tidytext.html) of [Text Mining With R](https://www.tidytextmining.com/).
-
-By the end, we will have imported multiple classic books into R and compare word usage between their authors.
-
-Download and use this code file: [chapter 1.R](chapter%201.R).
-
-[Slides from the presentation.](Class%201%20(DHRI)%20(public).pptx)
 
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
