@@ -23,7 +23,7 @@ What you will find in this Repository
 
 [What is the command line?](sections/command-line-useful.md)
 
-[what do we mean by text editors?](sections/text-editors.md)
+[What do we mean by text editors?](sections/text-editors.md)
 
 [Cloud-based Versus Local-Based environments](sections/cloud-vs-local.md)
 
@@ -32,6 +32,8 @@ What you will find in this Repository
 [Which DH language should you learn?](sections/which-lang.md)
 
 [Summary](sections/summary.md)
+
+[Glossary](sections/glossary.md)
 
 
 -----
