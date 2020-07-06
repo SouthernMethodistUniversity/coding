@@ -13,4 +13,8 @@ These are the names that spring to mind when many people think of the individual
 
 [Refer to handout](https://smu.box.com/s/a7rklrqnezu7mnkv6muuhgtfok3yklqt)
 
+
+[<<< Previous](cloud-vs-local.md) | [Next >>>](which.md)
+-----
+
 [<<< Return to introduction](https://github.com/SouthernMethodistUniversity/coding)

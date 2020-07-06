@@ -2,11 +2,13 @@
 
 # What is the command line?
 
-The command line is a text-based way of interacting with your computer. You may hear it called different names, such as the terminal, the shell, or bash. In practice, you can use these terms interchangeably. (If you're curious, though, you can read more about them [in the glossary](glossary.md).) The shell we use (whether terminal, shell, or bash) is a program that accepts commands as text input and converts commands into appropriate operating system functions.  
+The command line is a text-based way of interacting with your computer. You may hear it called different names, such as the terminal, the shell, or bash. In practice, you can use these terms interchangeably. (If you're curious, though, you can read more about them [in the glossary](glossary.md). The shell we use (whether terminal, shell, or bash) is a program that accepts commands as text input and converts commands into appropriate operating system functions.  
 
 And yes, "the command line" is also laden with masculine and military metaphors, which is reflective of the history of computing and programming. 
+
 * As Wendy Hui Kyong Chun discusses in ["On Software, or the Persistence of Visual Knowledge" (2004)](https://core.ac.uk/display/161652131), almost all computers (as in human comput-ers) in the US during World War II were young women. Human computers received commands from analysts--predominantly men with the military--that they then had to interpret and act upon the machine. As Chun argues, "computation depends on 'yes, sir' in response to short declarative sentences and imperatives that are in essence commands ... The command line is a mere operating system (OS) simulation" (page 34). The command line (of computers today) receives these commands as text that is typed in.  
-* These repositories we are using for our lessons additionally have a lot of racialized terms (see 'Ditch These Racist Terms From Your Tech Vocabulary')[https://lifehacker.com/ditch-these-racist-terms-from-your-tech-vocabulary-1844041452] )
+
+* These repositories we are using for our lessons additionally have a lot of racialized terms [see 'Ditch These Racist Terms From Your Tech Vocabulary'](https://lifehacker.com/ditch-these-racist-terms-from-your-tech-vocabulary-1844041452)
 
 
 ### Why is the command line useful?
@@ -35,7 +37,7 @@ Today we're going to explore another way to make your computer do things: throug
 
 While this new technique can seem intimidating if you haven't used text-based interfaces before, luckily, you can use 90% of the functionality of the command line by becoming comfortable with a very small set of the most common commands.
 
-In the next workshop (CHECK with OIT update?)
+In the next workshop we will 
 
 - learn common commands to create files (`touch` and `echo`) 
 - learn commands to create directories (`mkdir`)
@@ -45,5 +47,9 @@ In the next workshop (CHECK with OIT update?)
 - search text files using the `grep` command
 - create and sort cheat sheets for the commands we learn
 
+
+[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](getting-to-the-command-line.md)
+
+----
 
 [<<< Return to introduction](https://github.com/SouthernMethodistUniversity/coding)

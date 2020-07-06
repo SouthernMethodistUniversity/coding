@@ -1,7 +1,7 @@
 
 [<<< Previous](command-line-useful.md) | [Next >>>](cloud-vs-local.md)
 
-# Text editors 
+# What do we mean by text editors 
 
 ### What does "text-based" mean?
 
@@ -29,7 +29,7 @@ According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.
 
 "Plain text is a pure sequence of character codes; plain Unicode-encoded text is therefore a sequence of Unicode character codes."
 
-Plain text has two main properties in regard to rich text:
+Plain text has a few main properties:
 
 "plain text is the underlying content stream to which formatting can be applied. Plain text is public, standardized, and universally readable."
 
@@ -51,5 +51,10 @@ When it comes to editing text and writing code, you can use either a text editor
 
 
 [More information about text editors](text-editors-ides.md) can be found in the resources at the end of the lesson. 
+
+
+[<<< Previous](command-line-useful.md) | [Next >>>](cloud-vs-local.md)
+
+----
 
 [<<< Return to introduction](https://github.com/SouthernMethodistUniversity/coding)
