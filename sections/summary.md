@@ -1,4 +1,5 @@
-[<<< Previous](which.md)
+[<<< Previous](which-lang.md) | [Next >>>](glossary.md)
+
 
 ### What we've learned
 
@@ -35,6 +36,9 @@ What you have learned will be useful as you move forward through these tutorials
 
 * [Programming Historian ](https://programminghistorian.org/)
 
+[<<< Previous](which-lang.md) | [Next >>>](glossary.md)
+
+-----
 
 [<<< Return to introduction](https://github.com/SouthernMethodistUniversity/coding)
 

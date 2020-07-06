@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](getting-to-the-command-line.md)
+[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](text-editors.md)
 
 # What is the command line?
 
@@ -48,7 +48,7 @@ In the next workshop we will
 - create and sort cheat sheets for the commands we learn
 
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](getting-to-the-command-line.md)
+[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](text-editors.md)
 
 ----
 

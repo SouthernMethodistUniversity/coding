@@ -29,7 +29,7 @@ What you will find in this Repository
 
 [What do we mean by computing in the humanities?](sections/computing-in-humanities.md)
 
-[Which DH language should you learn?](sections/which.md)
+[Which DH language should you learn?](sections/which-lang.md)
 
 [Summary](sections/summary.md)
 

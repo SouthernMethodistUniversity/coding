@@ -1,4 +1,4 @@
-[<<< Previous](computing-in-humanities.md) | [Next >>>](which.md)
+[<<< Previous](computing-in-humanities.md) | [Next >>>](summary.md)
 
 # Which language should you learn?
 
@@ -31,7 +31,7 @@ Learning R fundamentals is a gateway to analyzing data, creating visualizations,
 
 [Task-Driven Programming Pedagogyin the Digital Humanitie](http://d-scholarship.pitt.edu/32151/1/Task-DrivenPedagogy_BirnbaumLangmead.pdf) 
 
-
+[<<< Previous](computing-in-humanities.md) | [Next >>>](summary.md)
 -----
 
 [Return to the Introduction](https://github.com/SouthernMethodistUniversity/coding)
