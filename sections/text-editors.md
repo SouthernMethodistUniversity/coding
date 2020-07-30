@@ -13,11 +13,11 @@ Let's take a quick moment to discuss text and text editors.
 
 Before we explain which program we'll be using for editing text, we want to give a general sense of this "text" we keep mentioning. For those of us in the humanities, whether we follow literary theorists who read any object as a "text" or we dive into philology, paleography, codicology or any of the fields [David Greetham](https://en.wikipedia.org/wiki/David_Greetham_(textual_scholar)) lays out in *Textual Scholarship*, "text" has its specific meanings. As scholars working with computers, we need to be aware of the ways plain text and formatted text differ. Words on a screen may have hidden formatting. Many of us grew up using Microsoft Word and don't realize how much is going on behind the words shown on the screen. For the purposes of communicating with the computer and for easier movement between different programs, we need to use text without hidden formatting.
 
-![Word Doc](worddoc.png)
+![Word Doc](https://github.com/SouthernMethodistUniversity/coding/blob/master/images/worddoc.png)
 
 If you ask the command line to read that file, this Word .docx file will look something like this
 
-![Cat Word Doc](CatWordDoc.png)
+![Cat Word Doc](https://github.com/SouthernMethodistUniversity/coding/blob/master/images/CatWordDoc.pngCatWordDoc.png)
 
 Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plain text files can be opened in a number of different editors and can be read within the command line.
 
@@ -48,9 +48,6 @@ While it doesn't really matter which text editor you choose, you should try to b
 ### Editors vs. IDEs
 
 When it comes to editing text and writing code, you can use either a text editor or an IDE (Integrated Development Environment). Text editors tend to be more lightweight solutions, while IDEs try to provide a lot of features to help you write code and tend to target specific languages. There are a lot of exceptions to that description, but the distinction isn't that important. Just know that editors will sometimes describe themselves as IDEs, and that there's a slight difference in philosophy between them.
-
-
-[More information about text editors](text-editors-ides.md) can be found in the resources at the end of the lesson. 
 
 
 [<<< Previous](command-line-useful.md) | [Next >>>](cloud-vs-local.md)

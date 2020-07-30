@@ -1,7 +1,7 @@
 [<<< Previous](which-lang.md) | [Next >>>](glossary.md)
 
 
-### What we've learned
+### Summary
 
 When we started, we reviewed what text is--whether plain or enriched. We learned that text editors that don't fix formatting of font, color, and size, do allow for more flexible manipulation and multi-program use. If text is allowed to be a string of characters (and not specific characters chosen for their compliance with a designer's intention), that text can be fed through programs and altered with automated regularity. Text editors are different software than Bash (or Terminal), which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. 
 
@@ -15,7 +15,7 @@ What you have learned will be useful as you move forward through these tutorials
 
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
 
-# Additonal links on Digital Humanities and HPC
+## Additonal links on Digital Humanities and HPC
 * [Links about Digital Humanities and HPC](https://www.sharcnet.ca/dh-hpc/index.php/Links_about_Digital_Humanities_and_HPC)
 
 * [Enabling complex analysis of large-scale digital collections: humanities research, high-performance computing, and transforming access to British Library digital collections](https://academic.oup.com/dsh/article/33/2/456/3789810)

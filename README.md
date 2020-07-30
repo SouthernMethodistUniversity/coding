@@ -10,10 +10,11 @@
 ## Required before session
 **Read the following chapter before this session.**
 * [Chapter 2 Hello World](https://ebookcentral-proquest-com.proxy.libraries.smu.edu/lib/southernmethodist/reader.action?docID=5355856&ppg=23) 
-*    From [Broussard, Meredith. Artificial Unintelligence : How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.](https://smu.primo.exlibrisgroup.com/permalink/01SMU_INST/aeja38/alma9952389699703716)
+*    From [Broussard, Meredith. Artificial Unintelligence : How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.]
 
 In this session we will discuss some usefull contextual information for the upcoming hands on workshop (Python) 
 
+[Next >>>](sections/command-line-useful.md)
 ----
 
 What you will find in this Repository

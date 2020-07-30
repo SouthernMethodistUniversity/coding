@@ -50,7 +50,7 @@ The wildcard, `*`, will tell the command to search for any file ending with a .t
 
 
 
-Find so much more on the command line:
+Find more on the command line:
 
 [Bash manual](https://www.gnu.org/software/bash/manual/bashref.html) - the no nonsense text descriptions of bash commands.  
 [explain shell](https://explainshell.com/) - a site that explains commands you paste into the form. This site is fantastic for breaking down commands you find in the wild on the internet.  
