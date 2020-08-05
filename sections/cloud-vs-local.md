@@ -2,7 +2,7 @@
 [<<< Previous](text-editors.md) | [Next >>>](computing-in-humanities.md)
 
 
-## Cloud-based versus local-based environments
+# Cloud-based versus local-based environments
 
 When doing an introductory coding workshop, instructors choose between using the local environment or a cloud-based environment. There are good pedagogical reasons for each choice. 
 [Cloud-based Versus Local-Based Web Development Education: An Experimental Study in Learning Experience.](https://files.eric.ed.gov/fulltext/EJ1144677.pdf)
