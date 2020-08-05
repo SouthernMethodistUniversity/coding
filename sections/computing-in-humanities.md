@@ -5,7 +5,7 @@
 
 "It's not surprising, then, that some of the first humanities projects were indexes and concordances, since the location of a word could be given a numerical value... In 1966, the first issue of *Computers and the Humanities* was published by Queens College, with support from IBM and the United States Steel Foundation." [The Rise of the Machines: How to turn language, the core operating system of the humanities, into numbers](https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines)
 
-"**Complicating “Great Man” Narrative of Digital History.** 
+"**Complicating “Great Man” Narrative of Digital History** 
 
 *Edward Ayers, Stephen Brier, Joshua Brown, Daniel Cohen, Roy Rosenzweig, William Thomas.*
 
