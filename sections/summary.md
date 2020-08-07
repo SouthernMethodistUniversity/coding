@@ -11,9 +11,7 @@ Having a grasp of command line basics will not only make you more familiar with 
 ## What next?
 
 What you have learned will be useful as you move forward through these tutorials. 
-* Over the course of this workshop, you will become familiar with using the [command line](https://en.wikipedia.org/wiki/Command-line_interface), [Github](https://en.wikipedia.org/wiki/GitHub) and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)).  
-
-* Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to review and learn more.
+* Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
 ## Additional links on Digital Humanities and HPC
 * [Links about Digital Humanities and HPC](https://www.sharcnet.ca/dh-hpc/index.php/Links_about_Digital_Humanities_and_HPC)
@@ -34,7 +32,7 @@ What you have learned will be useful as you move forward through these tutorials
 
 * [Code Academy](https://www.codecademy.com/) 
 
-* [Programming Historian ](https://programminghistorian.org/)
+* [Programming Historian](https://programminghistorian.org/)
 
 [<<< Previous](which-lang.md) | [Next >>>](glossary.md)
 
