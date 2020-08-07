@@ -38,6 +38,8 @@ Plain text has a few main properties:
 
 A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
+Note: Software like Microsoft Word or Excel add formatting (and can sometimes changes made by the auto-formatting can introduce errors). "Excel errors happen all the time, simply because the software is often the first thing to hand when scientists process numerical data. [Scientists rename human genes to stop Microsoft Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+
 ### Text editors
 
 An important tool for programming and working in the command line is a text editor. A text editor is a program that allows you to edit plain text files, such as .txt, .csv, or .md. Text editors are not used to edit rich text documents, such as .docx or .rtf, and rich text editors should not be used to edit plain text files. This is because rich text editors will add many invisible special characters that will prevent programs from running and configuration files from being read correctly. 
