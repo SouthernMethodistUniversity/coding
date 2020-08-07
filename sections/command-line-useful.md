@@ -33,9 +33,9 @@ By this point in our academic careers, most of us have figured out some ways we 
 
 Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on a graphical user interface, or GUI (pronounced "gooey!"). 
 
-Today we're going to explore another way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
+Annother way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
 
-While this new technique can seem intimidating if you haven't used text-based interfaces before, luckily, you can use 90% of the functionality of the command line by becoming comfortable with a very small set of the most common commands.
+* Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
 [<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](text-editors.md)
 

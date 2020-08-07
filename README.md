@@ -39,7 +39,6 @@ What you will find in this Repository
 
 [Summary](sections/summary.md)
 
-[Glossary](sections/glossary.md)
 
 
 -----

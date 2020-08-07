@@ -1,4 +1,4 @@
-[<<< Previous](which-lang.md) | [Next >>>](glossary.md)
+[<<< Previous](which-lang.md) 
 
 
 # Summary
@@ -36,7 +36,7 @@ What you have learned will be useful as you move forward through these tutorials
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
 
-[<<< Previous](which-lang.md) | [Next >>>](glossary.md)
+[<<< Previous](which-lang.md) 
 
 -----
 
