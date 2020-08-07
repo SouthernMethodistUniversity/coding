@@ -8,10 +8,14 @@ How much of the language do you need to learn?
 
 Does your project require basic fluency or only reading comprehension? 
 
+[Task-Driven Programming Pedagogy in the Digital Humanities](http://d-scholarship.pitt.edu/32151/1/Task-DrivenPedagogy_BirnbaumLangmead.pdf) 
+
 
 ## Python 
 
 [Python is an interpreted, high-level, general-purpose programming language.](https://en.wikipedia.org/wiki/Python_(programming_language))
+[Eric's text analysis lesson in python](https://github.com/SouthernMethodistUniversity/think-play-hack/blob/master/tutorials/python/textmining_python.ipynb) 
+
 
 ## R 
 
@@ -26,10 +30,8 @@ Learning R fundamentals is a gateway to analyzing data, creating visualizations,
 [Python vs. R for Data Science: What’s the Difference?](https://www.datacamp.com/community/blog/when-to-use-python-or-r)
 * [R vs. Python](http://www.theswarmlab.com/category/rvspython/): Compares the two in action.
 
-[Eric's text analysis lesson in python](https://github.com/SouthernMethodistUniversity/think-play-hack/blob/master/tutorials/python/textmining_python.ipynb) 
 
 
-[Task-Driven Programming Pedagogy in the Digital Humanities](http://d-scholarship.pitt.edu/32151/1/Task-DrivenPedagogy_BirnbaumLangmead.pdf) 
 
 [<<< Previous](computing-in-humanities.md) | [Next >>>](summary.md)
 -----
