@@ -12,7 +12,7 @@
 
 *Edward Ayers, Stephen Brier, Joshua Brown, Daniel Cohen, Roy Rosenzweig, William Thomas*
 "These are the names that spring to mind when many people think of the individuals who pioneered the theories and methods of digital history. The oft-repeated narratives about the origins of the field are almost totally devoid of women." 
-    * [Returning Women to the History of Digital History](https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/)
+* [Returning Women to the History of Digital History](https://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/)
 
 
 [<<< Previous](cloud-vs-local.md) | [Next >>>](which-lang.md)
