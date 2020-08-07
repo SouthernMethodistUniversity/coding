@@ -38,6 +38,15 @@ Plain text has a few main properties:
 
 A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
+### TEI
+"TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
+Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."] https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938
+
+##### Special Characters
+Special characters include characters that are not found on a standard English-language keyboard or that are not one of the 128 characters of the US-ASCII character code set. Examples include characters with diacritics and special symbols, such as the copyright sign or an ampersand. How these characters are represented varies in HTML and XML. [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
+* [More informationon [Characters, Glyphs, and Writing Modes](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/WD.html)
+
+
 ### Text editors
 
 An important tool for programming and working in the command line is a text editor. A text editor is a program that allows you to edit plain text files, such as .txt, .csv, or .md. Text editors are not used to edit rich text documents, such as .docx or .rtf, and rich text editors should not be used to edit plain text files. This is because rich text editors will add many invisible special characters that will prevent programs from running and configuration files from being read correctly. 
