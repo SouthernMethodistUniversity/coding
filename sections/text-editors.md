@@ -39,7 +39,7 @@ Plain text has a few main properties:
 A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
 
-##### Special Characters
+### Note about Special Characters
 Special characters include characters that are not found on a standard English-language keyboard or that are not one of the 128 characters of the US-ASCII character code set. Examples include characters with diacritics and special symbols, such as the copyright sign or an ampersand. How these characters are represented varies in HTML and XML. [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
 * [More informationon [Characters, Glyphs, and Writing Modes](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/WD.html)
 * "TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
