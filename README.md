@@ -6,13 +6,18 @@
 * You don't need to be become fluent if it's not the focus of your interest, but it is helpful to have reading fluency, like any other language that is an important part of your research. Also, like any other language, use will help you retain and gain knowledge. 
 
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
+* "I started to notice that the way people talk about technology is out of sync with what digital technology actually can do. Ultimately, everything we do with computers comes down to math, and there are fundamental limits to what we can (and should) do with it."[Hello Reader](https://mitpress.mit.edu/read/hello-reader)
 
 ## Required before session
 **Read the following chapter before this session.**
 * [Chapter 2 Hello World](https://ebookcentral-proquest-com.proxy.libraries.smu.edu/lib/southernmethodist/reader.action?docID=5355856&ppg=23) 
 *    From [Broussard, Meredith. Artificial Unintelligence : How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.]
+* We will return to concepts brought up in this chapter over the next few days. Keep the following questions in mind:
+    * What is happening when computer '"?
+    * What are the affordances and limitations of doing computational analysis for humanities questions? 
+    * What does it mean that 'Ultimately, data always comes down to people counting things"?
 
-In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python).
+ In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python).
 
 [Next >>>](sections/command-line-useful.md)
 ----
