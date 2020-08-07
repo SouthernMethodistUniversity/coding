@@ -43,8 +43,8 @@ What you will find in this Repository
 
 -----
 
-Session Leader: Rafia, etc.
-
+Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
