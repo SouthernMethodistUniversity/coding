@@ -11,7 +11,6 @@ Having a grasp of command line basics will not only make you more familiar with 
 ## What next?
 
 What you have learned will be useful as you move forward through these tutorials. 
-* Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
 ## Additional links on Digital Humanities and HPC
 * [Links about Digital Humanities and HPC](https://www.sharcnet.ca/dh-hpc/index.php/Links_about_Digital_Humanities_and_HPC)
@@ -33,6 +32,9 @@ What you have learned will be useful as you move forward through these tutorials
 * [Code Academy](https://www.codecademy.com/) 
 
 * [Programming Historian](https://programminghistorian.org/)
+
+* Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
+
 
 [<<< Previous](which-lang.md) | [Next >>>](glossary.md)
 
