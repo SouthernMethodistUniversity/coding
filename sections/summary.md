@@ -23,6 +23,8 @@ What you have learned will be useful as you move forward through these tutorials
 
 * [OIT](https://www.smu.edu/OIT/Training) 
 
+* [ManeFrame Workshops](https://www.smu.edu/provost/crc#workshops)
+
 * [SMU Libraries Request a Workshop](https://www.smu.edu/libraries/fondren/services/workshops)
 
 * [LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)

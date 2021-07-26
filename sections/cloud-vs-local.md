@@ -10,10 +10,10 @@ When doing an introductory coding workshop, instructors choose between using the
 - Local = your laptop or desktop.
 - Cloud = not your computer, another server(s) in the 'cloud' (internet) such as M II or Github. 
 
-## Since we are doing this DHRI online, we have chosen to do our computing workshop using containers.
+## Since we are doing this DHRI online, we have chosen to do our computing workshop using a cloud based environment [ManeFrame II](https://www.smu.edu/OIT/Services/HPC).
 
 ### Cloud-based environments 
-Some workshops will have you use notebooks rather than installing software. If you continue to learn coding, and take SMU OIT workshops in the future, you will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC) where you may use notebooks. 
+For this Institute, you will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC) where we will be using notebooks. 
 
 Advantages of using an M II account:
 - M II is already set up to work well on any device, and will have software pre-installed accessible via Internet.
@@ -27,7 +27,7 @@ In general, cloud-based notebooks give instructors:
 - Reproducible and sharable
 - Less reliant on strength of computer.
 
-You may also see references to [Jupyter notebooks](https://jupyter.org/ ) in other digital humanities workshops.  
+You may also see references to [Jupyter notebooks](https://jupyter.org/) in other digital humanities workshops.  
 
 
 ### Local installations
@@ -47,8 +47,6 @@ Containers are a type of [operating system virtualization](https://en.wikipedia.
 Singularity and Docker are popular toolsets used to create and manage containers on Linux. For security reasons, Docker is not usually allowed on HPC systems and this includes M2. M2 does have Singularity, which is largely compatible with Docker containers.
 
 [Explanation from: Creating Portable Environments with Singularity and Docker.](https://github.com/SouthernMethodistUniversity/singularity_docker)
-
-We will be using Docker containers in the next workshop. 
 
 ### Additional discussion: 
 What is elided in the process of computational work when using the HPC/HPRC? (We will return to this question in the Data session as well.)

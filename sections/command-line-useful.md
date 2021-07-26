@@ -33,7 +33,7 @@ By this point in our academic careers, most of us have figured out some ways we 
 
 Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on a graphical user interface, or GUI (pronounced "gooey!"). 
 
-Annother way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
+Another way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
 
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
