@@ -17,7 +17,7 @@
     * What are the affordances and limitations of doing computational analysis for humanities questions? 
     * What does it mean that 'Ultimately, data always comes down to people counting things"?
 
- :yellow_circle: In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python). :yellow_circle:
+ :yellow_circle: In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python).:yellow_circle:
 
 [Next >>>](sections/command-line-useful.md)
 ----
