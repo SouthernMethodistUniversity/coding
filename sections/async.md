@@ -15,8 +15,7 @@
 
 ## :white_check_mark:Discussion Questions
 *On Slack*
-* Go to [this page] https://github.com/SouthernMethodistUniversity/DHRI_python#running-the-notebook-via-jupyterlab-on-m2 
-* Make sure you can follow steps 1-4 to log on to ManFrame II
+* Go to [this page](https://github.com/SouthernMethodistUniversity/DHRI_python#running-the-notebook-via-jupyterlab-on-m2) and see if you can do steps 1-4 to log on to ManFrame II
     *  If not, let us know on Slack before 8/5. 
 
 *Consider the questions below and be prepared to share your responses during our synchronous discussion*
