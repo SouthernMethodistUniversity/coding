@@ -1,5 +1,5 @@
 
-[<<< Previous](command-line-useful.md) | [Next >>>](cloud-vs-local.md)
+[<<< Previous](command-line.md) | [Next >>>](cloud-vs-local.md)
 
 # What do we mean by text editors?
 
@@ -57,7 +57,13 @@ When it comes to editing text and writing code, you can use either a text editor
 * Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."](https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938)
 * [Projects that use TEI](https://tei-c.org/Activities/Projects)
 
-[<<< Previous](command-line-useful.md) | [Next >>>](cloud-vs-local.md)
+# Summary
+
+When we started, we reviewed what text is -- whether plain or enriched. We learned that text editors that don't fix formatting of font, color, and size, but they do allow for more flexible manipulation and multi-program use. If text is allowed to be a string of characters (and not specific characters chosen for their compliance with a designer's intention), that text can be fed through programs and altered with automated regularity. Text editors are different software than Bash (or Terminal), which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. 
+
+Having a grasp of command line basics will not only make you more familiar with how your computer and basic programming work, but it will also give you access to tools and communities that will expand your research.
+
+[<<< Previous](command-line.md) | [Next >>>](cloud-vs-local.md)
 
 ----
 

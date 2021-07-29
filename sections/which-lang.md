@@ -1,4 +1,4 @@
-[<<< Previous](computing-in-humanities.md) | [Next >>>](summary.md)
+[<<< Previous](humanities-computing.md) | [Next >>>](async.md)
 
 # Which language should you learn?
 
@@ -27,7 +27,10 @@
 * [R vs. Python](http://www.theswarmlab.com/category/rvspython/): Compares the two in action.
 
 
-[<<< Previous](computing-in-humanities.md) | [Next >>>](summary.md)
+
+
+
+[<<< Previous](humanities-computing.md) | [Next >>>](async.md)
 -----
 
 [Return to the Introduction](https://github.com/SouthernMethodistUniversity/coding)

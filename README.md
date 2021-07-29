@@ -8,36 +8,45 @@
 ***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 * "I started to notice that the way people talk about technology is out of sync with what digital technology actually can do. Ultimately, everything we do with computers comes down to math, and there are fundamental limits to what we can (and should) do with it."[Hello Reader](https://mitpress.mit.edu/read/hello-reader)
 
-## :white_check_mark:Required before session
-**Read the following chapter before this session.**:white_check_mark:
-* [Chapter 2 Hello World](https://ebookcentral-proquest-com.proxy.libraries.smu.edu/lib/southernmethodist/reader.action?docID=5355856&ppg=23) 
-*    From [Broussard, Meredith. Artificial Unintelligence : How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.]
-* We will return to concepts brought up in this chapter over the next few days. Keep the following questions in mind:
-    * What is happening when computer does analysis?
-    * What are the affordances and limitations of doing computational analysis for humanities questions? 
-    * What does it mean that 'Ultimately, data always comes down to people counting things"?
+# Process for DHRI
+* We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html)
+* This is the first year where DHRI has been planned to have both asynchronous and synchronous components. Here is how we have organized the content.  
+   * As you are reading, we you will see *four* categories of content:
+   * Asynchronous Content presentation (unmarked). Please read ahead of time.
+   * *Asynchronous Activity* (Indicated by green check mark :white_check_mark:). Please make sure you read this content before a session. Some questions have corresponding Slack channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
+   * Synchronous Content presentation (Indicated by a yellow dot:yellow_circle:). This indicates a page that has content we will go over together, you do not need to engage with this content ahead of time. 
+   * Synchronous Activity (unmarked). We will do these activities together in the synchronous sessions.
+* As you read each repository please put questions/comments in the Slack channel. 
+* If text appears Blue in a Repository, that just means it is a hyperlink.
+    * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
 
- :yellow_circle: In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python):yellow_circle:.
+## Required before this session (8/5/21)
+* All content is :white_check_mark: marked throughout, it is also all gathered on [this page](sections/async.md) 
 
-[Next >>>](sections/command-line-useful.md)
+In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python).
+
+[Next >>>](sections/programming.md) 
 ----
 
 What you will find in this Repository
 
 -----
 
+[What is programming?](sections/programming.md) 
 
-[What is the command line?](sections/command-line-useful.md)
+[What is the command line?](sections/command-line.md)
 
-[What do we mean by text editors?](sections/text-editors.md)
+[What is a text editor?](sections/text-editors.md)
 
 [Cloud-based Versus Local-Based environments](sections/cloud-vs-local.md)
 
-[What do we mean by computing in the humanities?](sections/computing-in-humanities.md)
+[What do we mean by computing in the humanities?](sections/humanities-computing.md)
 
-[Which DH language should you learn?](sections/which-lang.md)
+[Which programming language should you learn for DH?](sections/which-lang.md)
 
-[Summary](sections/summary.md)
+[Required before this session (8/5/21)](sections/async.md)
+
+[Continuing](sections/continue.md)
 
 
 

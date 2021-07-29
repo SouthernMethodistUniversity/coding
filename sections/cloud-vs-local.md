@@ -1,5 +1,5 @@
 
-[<<< Previous](text-editors.md) | [Next >>>](computing-in-humanities.md)
+[<<< Previous](text-editors.md) | [Next >>>](humanities-computing.md)
 
 
 # Cloud-based versus local-based environments
@@ -62,7 +62,7 @@ High Performance Computing is used mainly by scientific disciplines for processi
 [Humanities High-Performance Computing (HHPC)](https://www.neh.gov/divisions/odh/resource-library/humanities-high-performance-computing-resource) refers to the use of high-performance machines for humanities and social science projects. Humanities scholars often deal with large sets of unstructured data. This might take the form of historical newspapers, books, election data, archaeological fragments, audio or video contents, or a host of others.
 
 
-[<<< Previous](text-editors.md) | [Next >>>](computing-in-humanities.md)
+[<<< Previous](text-editors.md) | [Next >>>](humanities-computing.md)
 
 ------
 
