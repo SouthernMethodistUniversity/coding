@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](command-line.md)
+[<<< Previous](https://github.com/SouthernMethodistUniversity/coding) | [Next >>>](command-line.md)
 
 # What is programming?
 "Put simply, programming is giving a set of instructions to a computer to execute. ...While sometimes used interchangeably, programming and coding actually have different definitions."
