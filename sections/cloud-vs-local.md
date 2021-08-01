@@ -10,13 +10,13 @@ When doing an introductory coding workshop, instructors choose between using the
 - Local = your laptop or desktop.
 - Cloud = not your computer, another server(s) in the 'cloud' (internet) such as M II or Github. 
 
-## Since we are doing this DHRI online, we have chosen to do our computing workshop using a cloud based environment [ManeFrame II](https://www.smu.edu/OIT/Services/HPC).
+## Since we are doing this DHRI online, we have chosen to do our computing workshop using a cloud based environment: [ManeFrame II](https://www.smu.edu/OIT/Services/HPC).
 
 ### Cloud-based environments 
-For this Institute, you will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC) where we will be using notebooks. 
+For this Institute, you will be set up with [M II HPRC (ManeFrame II: High-Performance Research Computing) accounts](https://www.smu.edu/OIT/Services/HPC), where we will be using notebooks. 
 
 Advantages of using an M II account:
-- M II is already set up to work well on any device, and will have software pre-installed accessible via Internet.
+- M II is already set up to work well on any device, and it will have software pre-installed accessible via Internet.
 - Ownership and group access (access is contingent upon association with SMU).
 - You don’t have to install any software on your own computer.
 
@@ -38,7 +38,7 @@ See also: [Minimal Computing.](https://go-dh.github.io/mincomp/about/)
 
 
 ### Containers
-Containers are a type of [operating system virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization) where a single kernel is shared by all operating systems. This is contrasted with virtual machines that provide a virtualized hardware environment upon which an operating system can run. Containers, as such, are light weight compared to virtual machines, but are restricted to a single kernel type, e.g. Linux. The primary benefits on containers are:
+Containers are a type of [operating system virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization) where a single kernel is shared by all operating systems. This is contrasted with virtual machines that provide a virtualized hardware environment upon which an operating system can run. Containers, as such, are lightweight compared to virtual machines, but are restricted to a single kernel type, e.g., Linux. The primary benefits on containers are:
 
 - Isolation
 - Reproducibility
@@ -50,8 +50,8 @@ Singularity and Docker are popular toolsets used to create and manage containers
 
 ### Additional discussion: 
 What is elided in the process of computational work when using the HPC/HPRC? (We will return to this question in the Data session as well.)
-- "...valorizations of “the cloud” take  it  as  an  unquestioned  good  that  researchers  will  be  able to turn on the spigot without talking to a plumber – the point is that researchers should just be able to get on with their work and scale it in a relatively unregulated way. It is important to ask why that is held up as a necessary good" -[Digital Humanities Application Development in the Cloud](https://dl.acm.org/doi/pdf/10.1145/3355738.3355753?download=true)
-- "If you just graduated a software/data carpentry boot camp and want to go beyond your laptop’s capabilities, the next step in academia is typically to approached the data center of your university or alike. There, a user account application has to be filed for the High Performance Computing (HPC) facilities. After some more formalities, storage and computing time is awarded and you can successfully log into the cluster. And then? .... We will discuss this in the next section. -[From Software Carpentry site](https://software-carpentry.org/blog/2017/06/hpccarpentry.html )
+- "...valorizations of “the cloud” take  it  as  an  unquestioned  good  that  researchers will be able to turn on the spigot without talking to a plumber &#8212; the point is that researchers should just be able to get on with their work and scale it in a relatively unregulated way. It is important to ask why that is held up as a necessary good" &#8212; [Digital Humanities Application Development in the Cloud](https://dl.acm.org/doi/pdf/10.1145/3355738.3355753?download=true)
+- "If you just graduated a software/data carpentry boot camp and want to go beyond your laptop’s capabilities, the next step in academia is typically to approach the data center of your university or alike. There, a user account application has to be filed for the High Performance Computing (HPC) facilities. After some more formalities, storage and computing time is awarded and you can successfully log into the cluster. And then? .... We will discuss this in the next section. -[From Software Carpentry site](https://software-carpentry.org/blog/2017/06/hpccarpentry.html )
 
 ## What is "Humanities High-Performance Computing"?
 
