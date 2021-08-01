@@ -1,10 +1,9 @@
 [<<< Previous](which-lang.md) 
 
-# :yellow_circle:Additional Resources:yellow_circle:
+# :yellow_circle: Additional resources :yellow_circle:
 
-### Math for Humanists 
-* [Six Septembers: Mathematics for the Humanist](https://digitalcommons.unl.edu/zeabook/55/) 
-* "This book is a primer for developing the skills to enable humanist scholars to address complicated technical material with confidence. This book, to put it plainly, is concerned with the things that the author of a technical article knows, but isn’t saying. Like any field, mathematics operates under a regime of shared assumptions, and it is our purpose to elucidate some of those assumptions for the newcomer."
+## Math for humanists 
+"This book is a primer for developing the skills to enable humanist scholars to address complicated technical material with confidence. This book, to put it plainly, is concerned with the things that the author of a technical article knows, but isn’t saying. Like any field, mathematics operates under a regime of shared assumptions, and it is our purpose to elucidate some of those assumptions for the newcomer." - [Six Septembers: Mathematics for the Humanist](https://digitalcommons.unl.edu/zeabook/55/) 
 
 ## Additional links on Digital Humanities and HPC
 * [Links about Digital Humanities and HPC](https://www.sharcnet.ca/dh-hpc/index.php/Links_about_Digital_Humanities_and_HPC)
@@ -13,7 +12,7 @@
 
 * [Literate Computing: The relationship between computer-readable code and human-readable text gained visibility within computer science in the 1970’s, when Donald Knuth proposed the “literate programming” paradigm.](https://programminghistorian.org/en/lessons/jupyter-notebooks#literate-computing) 
 
-### SMU workshops
+## SMU workshops
 
 * [OIT](https://www.smu.edu/OIT/Training) 
 
@@ -23,7 +22,7 @@
 
 * [LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)
 
-###  Online lessons
+##  Online lessons
 
 * [Code Academy](https://www.codecademy.com/) 
 
