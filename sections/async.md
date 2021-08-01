@@ -2,7 +2,7 @@
 
 # Summary: **What to do before this synchronous session**
 
-## :white_check_mark:** Read the following chapter before this session.**
+## :white_check_mark: **Read the following chapter before this session.**
 * [Chapter 2 Hello World](https://ebookcentral-proquest-com.proxy.libraries.smu.edu/lib/southernmethodist/reader.action?docID=5355856&ppg=23) 
     * From [Broussard, Meredith. Artificial Unintelligence: How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.]
 * We will return to concepts brought up in this chapter over the next few days. Keep the following questions in mind:
