@@ -23,7 +23,7 @@
 * If interested, [additional coverage of this text](https://merbroussard.github.io/book/).    
 
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/coding)| [Next >>>](command-line.md)
+[<<< Previous](https://github.com/SouthernMethodistUniversity/coding) | [Next >>>](command-line.md)
 
 ----
 
