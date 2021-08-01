@@ -37,7 +37,7 @@ Another way to make your computer do things: through the command line. Instead o
 
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
-[<<< Previous](programming.md)| [Next >>>](text-editors.md)
+[<<< Previous](programming.md) | [Next >>>](text-editors.md)
 
 ----
 
