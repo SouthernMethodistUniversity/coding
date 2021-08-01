@@ -6,7 +6,7 @@ The command line is a text-based way of interacting with your computer. You may 
 
 And yes, "the command line" is also laden with masculine and military metaphors, which is reflective of the history of computing and programming. 
 
-* As Wendy Hui Kyong Chun discusses in ["On Software, or the Persistence of Visual Knowledge" (2004)](https://core.ac.uk/display/161652131), almost all computers (as in human comput-ers) in the US during World War II were young women. Human computers received commands from analysts--predominantly men with the military--that they then had to interpret and act upon the machine. As Chun argues, "computation depends on 'yes, sir' in response to short declarative sentences and imperatives that are in essence commands ... The command line is a mere operating system (OS) simulation" (page 34). The command line (of computers today) receives these commands as text that is typed in.  
+* As Wendy Hui Kyong Chun discusses in ["On Software, or the Persistence of Visual Knowledge," (2004)](https://core.ac.uk/display/161652131) almost all computers (as in human comput-ers) in the US during World War II were young women. Human computers received commands from analysts &#8212; predominantly men with the military &#8212; that they then had to interpret and act upon the machine. As Chun argues, "computation depends on 'yes, sir' in response to short declarative sentences and imperatives that are in essence commands ... The command line is a mere operating system (OS) simulation" (page 34). The command line (of computers today) receives these commands as text that is typed in.  
 
 * These repositories we are using for our lessons additionally have a lot of racialized terms. [See 'Ditch These Racist Terms From Your Tech Vocabulary.'](https://lifehacker.com/ditch-these-racist-terms-from-your-tech-vocabulary-1844041452)
 
@@ -17,11 +17,11 @@ Initially, for some of us, the command line can feel a bit unfamiliar. Why step 
 
 The command line allows you to...
 
-- Easily automate tasks such as creating, copying, and converting files.
-- Set up your programming environment.
-- Run programs you create.
-- Access the (many) programs and utilities that do not have graphical equivalents.
-- Control other computers remotely.
+* Easily automate tasks such as creating, copying, and converting files.
+* Set up your programming environment.
+* Run programs you create.
+* Access the (many) programs and utilities that do not have graphical equivalents.
+* Control other computers remotely.
 
 In addition to being a useful tool in itself, the command line gives you access to a second set of programs and utilities and is a complement to learning programming.
 
@@ -33,7 +33,7 @@ By this point in our academic careers, most of us have figured out some ways we 
 
 Many of us would explain what a screen and a cursor are, and then show how to point and click on icons. This approach relies on a graphical user interface, or GUI (pronounced "gooey!"). 
 
-Another way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
+Another way to make your computer do things: through the command line. Instead of pointing and clicking, we'll be typing in either Git bash (Windows) or terminal (OSX) to tell the computer directly what task we'd like it to perform. 
 
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
