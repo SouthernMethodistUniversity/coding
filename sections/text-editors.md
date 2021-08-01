@@ -33,14 +33,14 @@ According to the [Unicode Standard](https://www.unicode.org/versions/Unicode6.1.
 
 Plain text has a few main properties:
 
-- "plain text is the underlying content stream to which formatting can be applied. Plain text is public, standardized, and universally readable."
-- Plain text shows its cards -- if it's marked up, the markup will be human readable. Plain text can be moved between programs more fluidly and can respond to programmatic manipulations. Because it is not tied to a particular font or color or placement, plain text can be styled externally.
+* "plain text is the underlying content stream to which formatting can be applied. Plain text is public, standardized, and universally readable."
+* Plain text shows its cards &#8212; if it's marked up, the markup will be human readable. Plain text can be moved between programs more fluidly and can respond to programmatic manipulations. Because it is not tied to a particular font or color or placement, plain text can be styled externally.
 
 A counterpoint to plain text is rich text (sometimes denoted by the Microsoft rich text format ".rtf" file extension) or "enriched text" (sometimes seen as an option in email programs). In rich text files, plain text is elaborated with formatting specific to the program in which they are made.
 
-**Note:** Software like Microsoft Word or Excel add formatting (and can sometimes changes made by the auto-formatting can introduce errors). "Excel errors happen all the time, simply because the software is often the first thing to hand when scientists process numerical data. [Scientists rename human genes to stop Microsoft Excel from misreading them as dates](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+**Note:** Software like Microsoft Word or Excel add formatting (and can sometimes changes made by the auto-formatting can introduce errors). "Excel errors happen all the time, simply because the software is often the first thing to hand when scientists process numerical data. [Scientists rename human genes to stop Microsoft Excel from misreading them as dates.](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 
-### Text editors
+## Text editors
 
 An important tool for programming and working in the command line is a text editor. A text editor is a program that allows you to edit plain text files, such as .txt, .csv, or .md. Text editors are not used to edit rich text documents, such as .docx or .rtf, and rich text editors should not be used to edit plain text files. This is because rich text editors will add many invisible special characters that will prevent programs from running and configuration files from being read correctly. 
 
@@ -52,14 +52,14 @@ When it comes to editing text and writing code, you can use either a text editor
 
 ### Note about Special Characters
 "Special characters include characters that are not found on a standard English-language keyboard or that are not one of the 128 characters of the US-ASCII character code set. Examples include characters with diacritics and special symbols, such as the copyright sign or an ampersand. How these characters are represented varies in HTML and XML." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
-* More informtion on:[Characters, Glyphs, and Writing Modes](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/WD.html)
+* More information on: [Characters, Glyphs, and Writing Modes.](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/WD.html)
 * "TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
 * Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."](https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938)
-* [Projects that use TEI](https://tei-c.org/Activities/Projects)
+* [Projects that use TEI.](https://tei-c.org/Activities/Projects)
 
-# Summary
+## Summary
 
-When we started, we reviewed what text is -- whether plain or enriched. We learned that text editors that don't fix formatting of font, color, and size, but they do allow for more flexible manipulation and multi-program use. If text is allowed to be a string of characters (and not specific characters chosen for their compliance with a designer's intention), that text can be fed through programs and altered with automated regularity. Text editors are different software than Bash (or Terminal), which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. 
+When we started, we reviewed what text is &#8212; whether plain or enriched. We learned that text editors that don't fix formatting of font, color, and size, but they do allow for more flexible manipulation and multi-program use. If text is allowed to be a string of characters (and not specific characters chosen for their compliance with a designer's intention), that text can be fed through programs and altered with automated regularity. Text editors are different software than Bash (or Terminal), which is a text-based shell that allows you to interact directly with your operating system giving direct input and receiving output. 
 
 Having a grasp of command line basics will not only make you more familiar with how your computer and basic programming work, but it will also give you access to tools and communities that will expand your research.
 
