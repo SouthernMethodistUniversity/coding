@@ -2,7 +2,7 @@
 
 # What is the command line?
 
-The command line is a text-based way of interacting with your computer. You may hear it called different names, such as the terminal, the shell, or bash. In practice, you can use these terms interchangeably. (If you're curious, though, you can read more about them [here](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). The shell we use (whether terminal, shell, or bash) is a program that accepts commands as text input and converts commands into appropriate operating system functions.  
+The command line is a text-based way of interacting with your computer. You may hear it called different names, such as the terminal, the shell, or bash. In practice, you can use these terms interchangeably. (If you're curious, though, you can read more about them [here](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line).) The shell we use (whether terminal, shell, or bash) is a program that accepts commands as text input and converts commands into appropriate operating system functions.  
 
 And yes, "the command line" is also laden with masculine and military metaphors, which is reflective of the history of computing and programming. 
 
