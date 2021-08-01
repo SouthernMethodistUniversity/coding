@@ -38,7 +38,7 @@ What you will find in this repository.
 
 [What is a text editor?](sections/text-editors.md)
 
-[Cloud-based Versus Local-Based environments](sections/cloud-vs-local.md)
+[Cloud-based versus local-based environments](sections/cloud-vs-local.md)
 
 [What do we mean by computing in the humanities?](sections/humanities-computing.md)
 
