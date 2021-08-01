@@ -1,4 +1,4 @@
-[<<< Previous](programming.md)| [Next >>>](text-editors.md)
+[<<< Previous](programming.md) | [Next >>>](text-editors.md)
 
 # What is the command line?
 
