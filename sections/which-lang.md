@@ -23,8 +23,8 @@ Just as choosing which language you will use for your foreign language requireme
 ## R vs. Python
 * [Comparing Python vs R Objectively.](https://www.dataquest.io/blog/python-vs-r/): “where Python is more object-oriented, and R is more functional.”
 * [Choosing R or Python for Data Analysis? An Infographic.](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) 
-* [Python vs. R for Data Science: What’s the Difference?.](https://www.datacamp.com/community/blog/when-to-use-python-or-r)
-* [R vs. Python.](http://www.theswarmlab.com/category/rvspython/): Compares the two in action.
+* [Python vs. R for Data Science: What’s the Difference?](https://www.datacamp.com/community/blog/when-to-use-python-or-r)
+* [R vs. Python](http://www.theswarmlab.com/category/rvspython/): Compares the two in action.
 
 
 
