@@ -6,7 +6,7 @@
 "This book is a primer for developing the skills to enable humanist scholars to address complicated technical material with confidence. This book, to put it plainly, is concerned with the things that the author of a technical article knows, but isn’t saying. Like any field, mathematics operates under a regime of shared assumptions, and it is our purpose to elucidate some of those assumptions for the newcomer." - [Six Septembers: Mathematics for the Humanist](https://digitalcommons.unl.edu/zeabook/55/) 
 
 ## Additional links on Digital Humanities and HPC
-* [Links about Digital Humanities and HPC](https://www.sharcnet.ca/dh-hpc/index.php/Links_about_Digital_Humanities_and_HPC)
+* [High Performance Computing in the Arts & Humanities](https://www.sharcnet.ca/my/research/hhpc)
 
 * [Enabling complex analysis of large-scale digital collections: Humanities research, high-performance computing, and transforming access to British Library digital collections](https://academic.oup.com/dsh/article/33/2/456/3789810)
 
