@@ -56,7 +56,7 @@ When it comes to editing text and writing code, you can use either a text editor
 * "TEI tags describe the characteristics of a given text. For example, TEI tags may be used to indicate paragraph and line breaks, pagination, and major divisions of a text such as volumes, chapters, and sections. In addition, tags may be placed around typographical characteristics such as text that is underlined, italicized, superscripted, etc., and around text that needs special emphasis such as foreign words, misspellings, proper names, etc." [UNL Center for Digital Research in the Humanities](https://cdrh.unl.edu/articles/basicguide/TEI) 
 * Example: ["In transcribing a manuscript, it might be desirable to distinguish among three distinct forms of the letter r."](https://quod.lib.umich.edu/cgi/t/tei/tei-idx?type=HTML&rgn=DIV1&byte=281938)
 * [Projects that use TEI.](https://tei-c.org/Activities/Projects)
-  * ["Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."](https://twitter.com/quinnanya/status/1422238317878255642)
+  * "Why do so many book titles have commas in them?!" Face screaming in fear- A lament brought to you by someone who wrote titles into a CSV, didn't quote values, and now has regrets."-[ @quinnanya](https://twitter.com/quinnanya/status/1422238317878255642)
 
 
 ## Summary
