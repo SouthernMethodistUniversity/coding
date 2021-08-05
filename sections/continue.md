@@ -28,6 +28,8 @@
 
 * [Programming Historian](https://programminghistorian.org/)
 
+* [Software Carpentry](https://software-carpentry.org/lessons/)
+
 * Here is an external [command line tutorial]( https://ryanstutorials.net/linuxtutorial/) if you wish to learn more.
 
 
