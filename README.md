@@ -1,3 +1,5 @@
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.   
+
 # Why learn coding?
 
 “It follows, then, that any instructor—-in the humanities or otherwise-—must first ask herself what she hopes her students will accomplish by learning to code. Is it an understanding of how to think algorithmically, so as to better comprehend how certain tasks can be abstracted into a series of steps? Is it a familiarity with the basic components of programming languages, so as to be able to understand how code is structured and produced? Is it the knowledge of a specialized programming language, one with specific applications in a particular field? Or is it the more experiential knowledge of what it feels like to move from defining functions and assigning variables to running executable code?"
